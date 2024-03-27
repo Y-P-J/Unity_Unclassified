@@ -1,0 +1,25 @@
+{
+    "fileName": "Sample",
+    "title": "샘플 노래",
+    "artist": "Dummy",
+    "bpm": 140,
+    "signature": 4,
+    "length": 8,
+    "notes": [
+        {
+            "milliSec": 857,
+            "line": 1,
+            "type": 0
+        },
+        {
+            "milliSec": 857,
+            "line": 2,
+            "type": 0
+        },
+        {
+            "milliSec": 857,
+            "line": 3,
+            "type": 0
+        }
+    ]
+}

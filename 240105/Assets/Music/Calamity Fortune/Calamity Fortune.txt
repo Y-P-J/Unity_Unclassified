@@ -1,0 +1,1 @@
+{"id":"Calamity Fortune","title":"Calamity Fortune","artist":"Dummy","bpm":100,"signature":4,"notes":[{"milliSec":120,"line":2,"type":0},{"milliSec":240,"line":1,"type":0},{"milliSec":360,"line":2,"type":0},{"milliSec":360,"line":3,"type":0},{"milliSec":600,"line":1,"type":0},{"milliSec":720,"line":0,"type":0}]}
